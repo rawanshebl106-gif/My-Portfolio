@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects | Rawan Portfolio</title>
+  <link rel="stylesheet" href="../css/index.css">
+  <script>
+    // Seamless routing to main portfolio projects anchor with deep-link query support
+    const url = new URL(window.location.href);
+    const slug = url.searchParams.get('slug') || url.hash.replace('#', '');
+    if (slug) {
+      window.location.replace(`../?project=${encodeURIComponent(slug)}#projects`);
+    } else {
+      window.location.replace('../#projects');
+    }
+  </script>
+</head>
+<body style="display:flex;align-items:center;justify-content:center;height:100vh;">
+  <p>Redirecting to Projects...</p>
+</body>
+</html>

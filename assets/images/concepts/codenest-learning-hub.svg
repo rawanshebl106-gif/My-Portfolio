@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" role="img" aria-labelledby="title desc">
+  <title id="title">CodeNest Learning Hub concept preview</title><desc id="desc">A learning dashboard mockup with course cards and progress indicators.</desc>
+  <rect width="960" height="680" fill="#e5e5e5"/>
+  <rect x="44" y="40" width="872" height="600" rx="28" fill="#fff"/>
+  <rect x="44" y="40" width="188" height="600" rx="28" fill="#000"/>
+  <rect x="204" y="40" width="28" height="600" fill="#000"/>
+  <circle cx="84" cy="92" r="17" fill="#d1ffca"/><path d="M76 92h16M84 84v16" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <text x="110" y="98" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">CODENEST</text>
+  <g fill="#c6c6c6" font-family="Arial,sans-serif" font-size="15"><text x="72" y="165">OVERVIEW</text><text x="72" y="220">MY LEARNING</text><text x="72" y="275">COURSES</text><text x="72" y="330">BOOKMARKS</text><text x="72" y="385">SETTINGS</text></g>
+  <rect x="60" y="186" width="156" height="46" rx="10" fill="#d1ffca"/><text x="82" y="214" fill="#000" font-family="Arial,sans-serif" font-size="14" font-weight="700">My Learning</text>
+  <text x="276" y="103" fill="#000" font-family="Arial,sans-serif" font-size="14">LEARNING SPACE / 01</text>
+  <text x="276" y="150" fill="#000" font-family="Arial,sans-serif" font-size="36" font-weight="700">Keep building your skills.</text>
+  <text x="276" y="180" fill="#666" font-family="Arial,sans-serif" font-size="16">Small steps today. Better projects tomorrow.</text>
+  <rect x="276" y="218" width="600" height="130" rx="18" fill="#f3f3f3"/>
+  <circle cx="336" cy="282" r="34" fill="#d1ffca"/><path d="M326 282l8 8 15-18" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="390" y="263" fill="#000" font-family="Arial,sans-serif" font-size="20" font-weight="700">Your weekly goal</text><text x="390" y="291" fill="#666" font-family="Arial,sans-serif" font-size="15">3 of 5 study sessions completed</text>
+  <rect x="390" y="310" width="420" height="9" rx="5" fill="#d2d2d2"/><rect x="390" y="310" width="250" height="9" rx="5" fill="#000"/>
+  <text x="276" y="393" fill="#000" font-family="Arial,sans-serif" font-size="21" font-weight="700">Continue learning</text>
+  <g><rect x="276" y="414" width="188" height="180" rx="15" fill="#f3f3f3"/><rect x="292" y="430" width="156" height="82" rx="11" fill="#d1ffca"/><text x="308" y="464" fill="#000" font-family="Arial,sans-serif" font-size="16" font-weight="700">HTML / CSS</text><text x="308" y="486" fill="#333" font-family="Arial,sans-serif" font-size="12">Build the structure</text><text x="292" y="540" fill="#000" font-family="Arial,sans-serif" font-size="15" font-weight="700">Frontend foundations</text><rect x="292" y="561" width="156" height="6" rx="3" fill="#d0d0d0"/><rect x="292" y="561" width="104" height="6" rx="3" fill="#000"/></g>
+  <g><rect x="480" y="414" width="188" height="180" rx="15" fill="#f3f3f3"/><rect x="496" y="430" width="156" height="82" rx="11" fill="#fff100"/><path d="M532 454h84M532 469h62M532 484h75" stroke="#000" stroke-width="5" stroke-linecap="round"/><text x="496" y="540" fill="#000" font-family="Arial,sans-serif" font-size="15" font-weight="700">JavaScript basics</text><rect x="496" y="561" width="156" height="6" rx="3" fill="#d0d0d0"/><rect x="496" y="561" width="76" height="6" rx="3" fill="#000"/></g>
+  <g><rect x="684" y="414" width="192" height="180" rx="15" fill="#f3f3f3"/><rect x="700" y="430" width="160" height="82" rx="11" fill="#242424"/><circle cx="741" cy="471" r="18" fill="#d1ffca"/><circle cx="780" cy="471" r="18" fill="#fff100"/><circle cx="819" cy="471" r="18" fill="#c6c6c6"/><text x="700" y="540" fill="#000" font-family="Arial,sans-serif" font-size="15" font-weight="700">Design principles</text><rect x="700" y="561" width="160" height="6" rx="3" fill="#d0d0d0"/><rect x="700" y="561" width="128" height="6" rx="3" fill="#000"/></g>
+</svg>
